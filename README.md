@@ -14,6 +14,7 @@ results is reliable below 1/250( camera set at 1/60, 1/125, 1/250 and 1/500 resp
 potentially this could be due to slow raise time of sensor module, will look into this issue at later stage.  
 ![avatar](https://raw.githubusercontent.com/Zhe-Cai/shutter-speed-tester_arduino/master/shutter_tester_results.png)  
 
+<font color=#dd0000 > generally an error of 30% (1/3 EV) is acceptable, especially for negative film shooting</font> 
 set up is as flollow:  
 ![avatar](https://raw.githubusercontent.com/Zhe-Cai/shutter-speed-tester_arduino/master/shutter_tester_setup.jpg)  
 
