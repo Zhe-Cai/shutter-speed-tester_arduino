@@ -1,3 +1,4 @@
+// adapted from cameradactyl Shutter_Timer_v1.2
 long Start;   // shutter opens  in microsecond
 long Stop;    // shutter closes
 int Fired = 0;  // flag for shutter fires
